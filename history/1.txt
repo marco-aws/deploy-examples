@@ -1,0 +1,18 @@
+  23  git clone https://github.com/marco-aws/deploy-examples
+   24  kubectl apply -f deploy-examples/
+   25  kubectl get pods
+   26  kubectl get pods -n kube-system
+   27  kubectl get componentstatuses
+   28  kubectl get pods -n kube-system
+   29  kubectl get nodes
+   30  kubectl get events
+   31  kubectl get pods -A
+   32  kubectl logs nginx-2-949fc46b8-2nbhj
+   33  kubectl get pods -n wide
+   34  clear
+   35  kubectl get endpoints
+   36  k get pods
+   37  kubectl get pods
+   38  kubectl get svc
+   39  kubectl exec -it network-tools-fd7664bd6-nrpnv bash
+   40  history 
