@@ -11,7 +11,6 @@
    33  kubectl get pods -n wide
    34  clear
    35  kubectl get endpoints
-   36  k get pods
    37  kubectl get pods
    38  kubectl get svc
    39  kubectl exec -it network-tools-fd7664bd6-nrpnv bash
