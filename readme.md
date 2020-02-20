@@ -1,7 +1,7 @@
 
 
 
-1: make sure you are on eu-west-1
+1: make sure you are on us-west-2
 
 2: AWS Cloud9 --> Environments --> Create environment
 
